@@ -1,6 +1,6 @@
 #  Event Management System - Full Stack
 
-**Student** और **Admin** dashboard complete event platform.
+**Student** : **Admin** dashboard complete event platform.
 
 ## ✨ Features
 ✅ Student: Events browse + register  
