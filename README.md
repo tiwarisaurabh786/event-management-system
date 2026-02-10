@@ -126,43 +126,43 @@ It reflects **industry-level backend thinking** and **practical full-stack devel
 ## 📸 Screenshots
 
 ### 🎓 Student Dashboard
-![Student Dashboard](screenshots/student-dashborard.png)
+![Student Dashboard](screenshots/student-dashborard.png.png)
 
 ---
 
 ### 🛠️ Admin Dashboard
-![Admin Dashboard](screenshots/admin-events-dashboard.png)
+![Admin Dashboard](screenshots/admin-events-dashboard.png.png)
 
 ---
 
 ### 🔐 Login Page
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/login.png.png)
 
 ---
 
 ### 🧩 Admin Event CRUD
-![Admin Event CRUD Dashboard](screenshots/admin-event-crud.png)
+![Admin Event CRUD Dashboard](screenshots/admin-event-crud.png.png)
 
 ---
 
 ### 📝 Registration Page
-![Register Page](screenshots/register.png)
+![Register Page](screenshots/register.png.png)
 
 ---
 
 ### 📋 Student Registration Dashboard
-![Student Registration Dashboard](screenshots/student-registration.png)
+![Student Registration Dashboard](screenshots/student-registration.png.png)
 
 ---
 
 ### 🔍 Admin Event Search
-![Admin Event Search](screenshots/admin-event-search.png)
+![Admin Event Search](screenshots/admin-event-search.png.png)
 
 ---
 
 <a id="project-structure"></a>
 ## 📂 Project Structure
-
+```text
 Event-Management-System/
 │
 ├── backend/
@@ -185,7 +185,7 @@ Event-Management-System/
 ├── schema.sql
 ├── README.md
 └── pom.xml
-
+```
 ---
 
 <a id="how-to-run-locally"></a>
