@@ -221,29 +221,32 @@ Admin:
 📧 admin@events.com
 🔑 Password: admin123
 ```
-
+---
 <a id="future-enhancements"></a>
 
-🔮 Future Enhancements
-🔐 JWT-based authentication
+## 🔮 Future Enhancements
 
-📧 Email notifications for registrations
+-🔐 JWT-based authentication
 
-📊 Admin analytics dashboard
+-📧 Email notifications for registrations
 
-🧾 Event history & reports
+-📊 Admin analytics dashboard
 
-☁️ Cloud deployment (AWS / Render)
+-🧾 Event history & reports
+
+-☁️ Cloud deployment (AWS / Render)
+
+---
 
 <a id="author"></a>
+## 👤 Author
 
-👤 Author
 <div align="center">
-Saurabh Tiwari
-Java Full-Stack Developer | Backend Enthusiast
 
-📧 Email: tiwarisoravvka@gmail.com
-🔗 GitHub: https://github.com/tiwarisaurabh786
-🔗 LeetCode: https://leetcode.com/u/SaurabhGates/
+### **Saurabh Tiwari**  
+**Java Full-Stack Developer | Backend | Cloud**
 
+📧 **Email:** tiwarisoravvka@gmail.com  
+🔗 **GitHub:** https://github.com/tiwarisaurabh786  
+🔗 **LeetCode:** https://leetcode.com/u/SaurabhGates/
 </div> ```
