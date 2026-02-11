@@ -1,29 +1,50 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Event+Management+System;Full-Stack+Event+Platform;Student+%26+Admin+Dashboards" />
+<div align="center">
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&pause=800&color=38BDF8&center=true&vCenter=true&width=950&lines=Event+Management+System;Enterprise+Full-Stack+Event+Platform;Student+%26+Admin+Dashboards;Scalable+%7C+Secure+%7C+Production-Ready" />
+
+<br/><br/>
+
+<!-- Subtle Divider Animation -->
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="480" />
+
+<br/><br/>
+
+<h3>🎟️ Full-Stack Event Platform | Student & Admin Dashboards</h3>
+
+<p>
+A modern <b>Event Management System</b> engineered with a scalable full-stack architecture.<br/>
+Students can seamlessly browse and register for events,<br/>
+while administrators manage events with real-time updates.
 </p>
 
-<h3 align="center">🎟️ Full-Stack Event Platform | Student & Admin Dashboards</h3>
+<br/>
 
-<p align="center">
-A modern <b>Event Management System</b> built with a scalable full-stack architecture,<br/>
-allowing students to discover and register for events while admins manage events in real time.
-</p>
-
-<p align="center">
-🔗 <b>GitHub Repository</b><br/>
-<a href="https://github.com/tiwarisaurabh786/event-management-system">
-github.com/tiwarisaurabh786/event-management-system
-</a>
-</p>
-
-<p align="center">
+<!-- Tech Stack Badges -->
+<p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Architecture-Full--Stack-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Role--Based-Access-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Real--Time-Updates-important?style=for-the-badge"/>
+</p>
 
+<br/>
+
+<!-- Repo CTA -->
+<p>
+🔗 <b>GitHub Repository</b><br/>
+<a href="https://github.com/tiwarisaurabh786/event-management-system">
+github.com/tiwarisaurabh786/event-management-system
+</a>
+</p>
+
+</div>
 
 ---
 
