@@ -1,20 +1,29 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Event+Management+System;Full-Stack+Event+Platform;Student+%26+Admin+Dashboards" />
+</p>
 
-# 🎟️ Event Management System  
-### Full-Stack Event Platform | Student & Admin Dashboards
+<h3 align="center">🎟️ Full-Stack Event Platform | Student & Admin Dashboards</h3>
 
-A complete **Event Management System** built with a modern full-stack architecture, allowing students to browse and register for events while enabling admins to manage events efficiently with real-time updates.
+<p align="center">
+A modern <b>Event Management System</b> built with a scalable full-stack architecture,<br/>
+allowing students to discover and register for events while admins manage events in real time.
+</p>
 
-🔗 **GitHub Repository**  
-👉 https://github.com/tiwarisaurabh786/event-management-system  
+<p align="center">
+🔗 <b>GitHub Repository</b><br/>
+<a href="https://github.com/tiwarisaurabh786/event-management-system">
+github.com/tiwarisaurabh786/event-management-system
+</a>
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Full Stack](https://img.shields.io/badge/Full--Stack-Application-success?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+</p>
 
-</div>
+
 
 ---
 
