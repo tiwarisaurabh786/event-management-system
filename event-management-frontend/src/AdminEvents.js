@@ -4,7 +4,6 @@ import {
   createEvent,
   updateEvent,
   deleteEvent,
-  getEventStudents,
   getEventById
 } from "./api";
 
