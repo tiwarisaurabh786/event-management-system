@@ -24,7 +24,7 @@ export default function AdminEvents() {
   const [students, setStudents] = useState([]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
-  const [loadingStudents, setLoadingStudents] = useState(false);
+ // const [loadingStudents, setLoadingStudents] = useState(false);
 
   const token = localStorage.getItem("token");
 
@@ -81,23 +81,23 @@ export default function AdminEvents() {
   };
 
   // Load students for event
-  const loadStudents = async () => {
-    if (!eventId || !token) {
-      setError("Please enter a valid Event ID first");
-      return;
-    }
+ // const loadStudents = async () => {
+   // if (!eventId || !token) {
+    //  setError("Please enter a valid Event ID first");
+    //  return;
+   // }
 
-    try {
-      setLoadingStudents(true);
-      setError("");
-      const res = await getEventStudents(eventId, token);
-      setStudents(Array.isArray(res?.data) ? res.data : []);
-    } catch (e) {
-      setError(e.message || "Failed to load students");
-    } finally {
-      setLoadingStudents(false);
-    }
-  };
+   // try {
+     // setLoadingStudents(true);
+     // setError("");
+     // const res = await getEventStudents(eventId, token);
+     // setStudents(Array.isArray(res?.data) ? res.data : []);
+   // } catch (e) {
+     // setError(e.message || "Failed to load students");
+   // } finally {
+    //  setLoadingStudents(false);
+   // }
+ // };
 
   // Create/Update event
   const submitEvent = async (e) => {
