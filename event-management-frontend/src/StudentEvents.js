@@ -4,7 +4,7 @@ import {
   getStudentEvents
 } from "./api";
 
-const BASE = "https://event-management-backend-3t3a.onrender.com";
+const BASE = "https://event-management-backend-3t3a.onrender.com/api";
 
 export default function StudentEvents() {
   const [events, setEvents] = useState([]);
