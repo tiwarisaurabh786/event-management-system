@@ -1,4 +1,4 @@
-const BASE = "https://event-management-backend-3t3a.onrender.com";
+const BASE = "https://event-management-backend-3t3a.onrender.com/api";
 
 const handleResponse = async (res) => {
   let data = null;
