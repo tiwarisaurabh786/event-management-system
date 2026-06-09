@@ -1,4 +1,4 @@
-const BASE = "http://localhost:8080/api";
+const BASE = "https://event-management-backend-3t3a.onrender.com";
 
 const handleResponse = async (res) => {
   let data = null;
